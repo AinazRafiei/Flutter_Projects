@@ -4,7 +4,7 @@ A simple and clean Flutter app that demonstrates a **scrollable time picker** us
 Users can scroll through hours, minutes, and AM/PM to select a time.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/74d47b89-f866-4fb3-b4c0-bd3f6ded187b" width="300"/>
+   <img src="assets/preview.png" width="300"/>
 </p>
 
 ---
